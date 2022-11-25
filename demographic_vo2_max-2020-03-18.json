@@ -1,0 +1,2105 @@
+[{
+  "dateTime" : "03/19/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.71556,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.71556,
+    "filteredDemographicVO2MaxError" : 3.0000000000000004
+  }
+},{
+  "dateTime" : "03/20/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.39672,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.55482000000001,
+    "filteredDemographicVO2MaxError" : 1.5123900000000001
+  }
+},{
+  "dateTime" : "03/21/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.723580000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.612610000000004,
+    "filteredDemographicVO2MaxError" : 1.0273400000000001
+  }
+},{
+  "dateTime" : "03/22/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.13928000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.48754,
+    "filteredDemographicVO2MaxError" : 0.7926700000000001
+  }
+},{
+  "dateTime" : "03/23/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.07965,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.39809,
+    "filteredDemographicVO2MaxError" : 0.6578700000000001
+  }
+},{
+  "dateTime" : "03/24/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.887510000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.300610000000006,
+    "filteredDemographicVO2MaxError" : 0.5727300000000001
+  }
+},{
+  "dateTime" : "03/25/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.89349000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.23062,
+    "filteredDemographicVO2MaxError" : 0.51568
+  }
+},{
+  "dateTime" : "03/26/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.579840000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.127370000000006,
+    "filteredDemographicVO2MaxError" : 0.47593
+  }
+},{
+  "dateTime" : "03/27/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.27817,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.0007,
+    "filteredDemographicVO2MaxError" : 0.44748000000000004
+  }
+},{
+  "dateTime" : "03/28/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.182460000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.884310000000006,
+    "filteredDemographicVO2MaxError" : 0.42671000000000003
+  }
+},{
+  "dateTime" : "03/29/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.091100000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.77554000000001,
+    "filteredDemographicVO2MaxError" : 0.41134000000000004
+  }
+},{
+  "dateTime" : "03/30/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.558550000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.746610000000004,
+    "filteredDemographicVO2MaxError" : 0.39985000000000004
+  }
+},{
+  "dateTime" : "03/31/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.646260000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.733520000000006,
+    "filteredDemographicVO2MaxError" : 0.39119000000000004
+  }
+},{
+  "dateTime" : "04/01/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.283910000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.67587,
+    "filteredDemographicVO2MaxError" : 0.38462
+  }
+},{
+  "dateTime" : "04/02/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.183710000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.61359,
+    "filteredDemographicVO2MaxError" : 0.37962
+  }
+},{
+  "dateTime" : "04/03/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.183710000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.559740000000005,
+    "filteredDemographicVO2MaxError" : 0.3758
+  }
+},{
+  "dateTime" : "04/06/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.02002,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.47925,
+    "filteredDemographicVO2MaxError" : 0.44738000000000006
+  }
+},{
+  "dateTime" : "04/07/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 45.465090000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.33502000000001,
+    "filteredDemographicVO2MaxError" : 0.42664
+  }
+},{
+  "dateTime" : "04/08/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.002930000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.28949,
+    "filteredDemographicVO2MaxError" : 0.41129000000000004
+  }
+},{
+  "dateTime" : "04/09/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.75009000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.35087,
+    "filteredDemographicVO2MaxError" : 0.39981000000000005
+  }
+},{
+  "dateTime" : "04/10/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.096610000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.448100000000004,
+    "filteredDemographicVO2MaxError" : 0.39116
+  }
+},{
+  "dateTime" : "04/14/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.096610000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.55485,
+    "filteredDemographicVO2MaxError" : 0.49384000000000006
+  }
+},{
+  "dateTime" : "04/15/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.39922000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.53096,
+    "filteredDemographicVO2MaxError" : 0.46038
+  }
+},{
+  "dateTime" : "04/16/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.12798,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.617760000000004,
+    "filteredDemographicVO2MaxError" : 0.43617000000000006
+  }
+},{
+  "dateTime" : "04/17/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.896820000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.656670000000005,
+    "filteredDemographicVO2MaxError" : 0.41837
+  }
+},{
+  "dateTime" : "04/18/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.618010000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.65144,
+    "filteredDemographicVO2MaxError" : 0.40512000000000004
+  }
+},{
+  "dateTime" : "04/19/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.44679000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.75620000000001,
+    "filteredDemographicVO2MaxError" : 0.39517
+  }
+},{
+  "dateTime" : "04/21/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.213800000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.821020000000004,
+    "filteredDemographicVO2MaxError" : 0.42501000000000005
+  }
+},{
+  "dateTime" : "04/22/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.90831000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.832950000000004,
+    "filteredDemographicVO2MaxError" : 0.41007000000000005
+  }
+},{
+  "dateTime" : "04/23/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.287560000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.76043000000001,
+    "filteredDemographicVO2MaxError" : 0.39889
+  }
+},{
+  "dateTime" : "04/24/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.278780000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.69774,
+    "filteredDemographicVO2MaxError" : 0.39046000000000003
+  }
+},{
+  "dateTime" : "04/25/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.727180000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.7015,
+    "filteredDemographicVO2MaxError" : 0.38407
+  }
+},{
+  "dateTime" : "04/26/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.096610000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.75144,
+    "filteredDemographicVO2MaxError" : 0.37920000000000004
+  }
+},{
+  "dateTime" : "04/29/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.22158,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.82193,
+    "filteredDemographicVO2MaxError" : 0.44984
+  }
+},{
+  "dateTime" : "04/30/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.68620000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.94536,
+    "filteredDemographicVO2MaxError" : 0.42845000000000005
+  }
+},{
+  "dateTime" : "05/01/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.45910000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.016020000000005,
+    "filteredDemographicVO2MaxError" : 0.41264
+  }
+},{
+  "dateTime" : "05/02/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 48.13009,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.16487,
+    "filteredDemographicVO2MaxError" : 0.40082
+  }
+},{
+  "dateTime" : "05/03/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 48.44764000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.33245,
+    "filteredDemographicVO2MaxError" : 0.39192000000000005
+  }
+},{
+  "dateTime" : "05/05/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.887930000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.410700000000006,
+    "filteredDemographicVO2MaxError" : 0.42262000000000005
+  }
+},{
+  "dateTime" : "05/06/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 48.08516,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.50249,
+    "filteredDemographicVO2MaxError" : 0.40829000000000004
+  }
+},{
+  "dateTime" : "05/07/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 48.16424000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.590180000000004,
+    "filteredDemographicVO2MaxError" : 0.39755
+  }
+},{
+  "dateTime" : "05/08/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.968770000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.639320000000005,
+    "filteredDemographicVO2MaxError" : 0.38945
+  }
+},{
+  "dateTime" : "05/09/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.76091,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.65485,
+    "filteredDemographicVO2MaxError" : 0.38330000000000003
+  }
+},{
+  "dateTime" : "05/12/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.9973,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.70653,
+    "filteredDemographicVO2MaxError" : 0.45280000000000004
+  }
+},{
+  "dateTime" : "05/13/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.339470000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.65384,
+    "filteredDemographicVO2MaxError" : 0.43062000000000006
+  }
+},{
+  "dateTime" : "05/14/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.243280000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.59714,
+    "filteredDemographicVO2MaxError" : 0.41425
+  }
+},{
+  "dateTime" : "05/15/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.210010000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.545260000000006,
+    "filteredDemographicVO2MaxError" : 0.40203000000000005
+  }
+},{
+  "dateTime" : "05/16/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.02335,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.476910000000004,
+    "filteredDemographicVO2MaxError" : 0.39284
+  }
+},{
+  "dateTime" : "05/17/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.99353000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.41474,
+    "filteredDemographicVO2MaxError" : 0.38588000000000006
+  }
+},{
+  "dateTime" : "05/18/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.20093000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.38761,
+    "filteredDemographicVO2MaxError" : 0.38058000000000003
+  }
+},{
+  "dateTime" : "05/22/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.672850000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.271710000000006,
+    "filteredDemographicVO2MaxError" : 0.48644000000000004
+  }
+},{
+  "dateTime" : "05/23/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.31855,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.27881000000001,
+    "filteredDemographicVO2MaxError" : 0.45506
+  }
+},{
+  "dateTime" : "05/24/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 48.033350000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.387530000000005,
+    "filteredDemographicVO2MaxError" : 0.43228000000000005
+  }
+},{
+  "dateTime" : "05/25/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 45.384750000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.110150000000004,
+    "filteredDemographicVO2MaxError" : 0.41548
+  }
+},{
+  "dateTime" : "05/26/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 45.745580000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.926860000000005,
+    "filteredDemographicVO2MaxError" : 0.40295000000000003
+  }
+},{
+  "dateTime" : "05/27/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 42.46866000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.342040000000004,
+    "filteredDemographicVO2MaxError" : 0.39353000000000005
+  }
+},{
+  "dateTime" : "05/28/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 39.83062,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 45.50336,
+    "filteredDemographicVO2MaxError" : 0.3864
+  }
+},{
+  "dateTime" : "05/29/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 37.577980000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 44.49689,
+    "filteredDemographicVO2MaxError" : 0.38098000000000004
+  }
+},{
+  "dateTime" : "05/30/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 37.577980000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 43.627770000000005,
+    "filteredDemographicVO2MaxError" : 0.37684
+  }
+},{
+  "dateTime" : "07/09/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 37.63937,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 40.98059000000001,
+    "filteredDemographicVO2MaxError" : 1.3261500000000002
+  }
+},{
+  "dateTime" : "07/10/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 42.01317,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 41.3053,
+    "filteredDemographicVO2MaxError" : 0.9433900000000001
+  }
+},{
+  "dateTime" : "07/11/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 44.09474,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 41.999190000000006,
+    "filteredDemographicVO2MaxError" : 0.7462700000000001
+  }
+},{
+  "dateTime" : "07/12/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 44.255610000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 42.47247,
+    "filteredDemographicVO2MaxError" : 0.6292500000000001
+  }
+},{
+  "dateTime" : "07/13/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 45.49136,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 43.0298,
+    "filteredDemographicVO2MaxError" : 0.55384
+  }
+},{
+  "dateTime" : "07/14/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 45.70779,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 43.47851000000001,
+    "filteredDemographicVO2MaxError" : 0.50266
+  }
+},{
+  "dateTime" : "07/15/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 45.745580000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 43.83118,
+    "filteredDemographicVO2MaxError" : 0.46668000000000004
+  }
+},{
+  "dateTime" : "07/16/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 45.745580000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 44.11244000000001,
+    "filteredDemographicVO2MaxError" : 0.44076000000000004
+  }
+},{
+  "dateTime" : "07/17/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 45.536460000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 44.31264,
+    "filteredDemographicVO2MaxError" : 0.42176
+  }
+},{
+  "dateTime" : "07/18/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.740050000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 44.642480000000006,
+    "filteredDemographicVO2MaxError" : 0.40765
+  }
+},{
+  "dateTime" : "07/20/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 46.15447,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 44.86130000000001,
+    "filteredDemographicVO2MaxError" : 0.43417000000000006
+  }
+},{
+  "dateTime" : "07/21/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.83661000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 45.274750000000004,
+    "filteredDemographicVO2MaxError" : 0.41688000000000003
+  }
+},{
+  "dateTime" : "07/22/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 48.04159000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 45.64735,
+    "filteredDemographicVO2MaxError" : 0.404
+  }
+},{
+  "dateTime" : "07/25/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 48.44764000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.08386,
+    "filteredDemographicVO2MaxError" : 0.46764000000000006
+  }
+},{
+  "dateTime" : "07/28/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 48.44764000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.48742000000001,
+    "filteredDemographicVO2MaxError" : 0.51219
+  }
+},{
+  "dateTime" : "09/08/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 48.44764000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.399800000000006,
+    "filteredDemographicVO2MaxError" : 1.3963400000000001
+  }
+},{
+  "dateTime" : "09/09/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 48.44764000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.74065,
+    "filteredDemographicVO2MaxError" : 0.9758600000000001
+  }
+},{
+  "dateTime" : "09/10/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 48.44764000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.92080000000001,
+    "filteredDemographicVO2MaxError" : 0.7644500000000001
+  }
+},{
+  "dateTime" : "09/13/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.702940000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.8699,
+    "filteredDemographicVO2MaxError" : 0.7008200000000001
+  }
+},{
+  "dateTime" : "09/14/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.712030000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.83829,
+    "filteredDemographicVO2MaxError" : 0.60052
+  }
+},{
+  "dateTime" : "09/15/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.66239,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.806940000000004,
+    "filteredDemographicVO2MaxError" : 0.53459
+  }
+},{
+  "dateTime" : "09/16/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 47.391740000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.73922,
+    "filteredDemographicVO2MaxError" : 0.48925
+  }
+},{
+  "dateTime" : "09/17/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 40.93164,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.70199,
+    "filteredDemographicVO2MaxError" : 0.45708000000000004
+  }
+},{
+  "dateTime" : "09/18/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 41.37125,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 45.931230000000006,
+    "filteredDemographicVO2MaxError" : 0.43376000000000003
+  }
+},{
+  "dateTime" : "09/19/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 41.80561,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 45.358340000000005,
+    "filteredDemographicVO2MaxError" : 0.41658000000000006
+  }
+},{
+  "dateTime" : "09/20/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 41.67125,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 44.862080000000006,
+    "filteredDemographicVO2MaxError" : 0.40378000000000003
+  }
+},{
+  "dateTime" : "09/21/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 41.78432,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 44.4577,
+    "filteredDemographicVO2MaxError" : 0.39415000000000006
+  }
+},{
+  "dateTime" : "09/22/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 41.84933,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 44.12133,
+    "filteredDemographicVO2MaxError" : 0.38687000000000005
+  }
+},{
+  "dateTime" : "09/23/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 41.88674,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 43.83728000000001,
+    "filteredDemographicVO2MaxError" : 0.38133000000000006
+  }
+},{
+  "dateTime" : "09/24/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 41.7184,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 43.570930000000004,
+    "filteredDemographicVO2MaxError" : 0.37711000000000006
+  }
+},{
+  "dateTime" : "09/25/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 41.811350000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 43.35163,
+    "filteredDemographicVO2MaxError" : 0.37388000000000005
+  }
+},{
+  "dateTime" : "09/26/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 41.48512,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 43.12055,
+    "filteredDemographicVO2MaxError" : 0.3714
+  }
+},{
+  "dateTime" : "09/27/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 41.29728,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 42.89598,
+    "filteredDemographicVO2MaxError" : 0.36949000000000004
+  }
+},{
+  "dateTime" : "09/28/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 41.568870000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 42.73317,
+    "filteredDemographicVO2MaxError" : 0.36802
+  }
+},{
+  "dateTime" : "09/29/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 41.53537,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 42.58668,
+    "filteredDemographicVO2MaxError" : 0.36689000000000005
+  }
+},{
+  "dateTime" : "09/30/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 41.705960000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 42.479220000000005,
+    "filteredDemographicVO2MaxError" : 0.36602
+  }
+},{
+  "dateTime" : "10/01/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 41.994060000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 42.42013,
+    "filteredDemographicVO2MaxError" : 0.36535
+  }
+},{
+  "dateTime" : "10/02/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 42.729560000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 42.45776,
+    "filteredDemographicVO2MaxError" : 0.36483000000000004
+  }
+},{
+  "dateTime" : "10/03/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 42.773320000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 42.49609,
+    "filteredDemographicVO2MaxError" : 0.36443000000000003
+  }
+},{
+  "dateTime" : "10/04/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 43.178270000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 42.57889,
+    "filteredDemographicVO2MaxError" : 0.36412000000000005
+  }
+},{
+  "dateTime" : "10/05/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 43.411440000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 42.67987,
+    "filteredDemographicVO2MaxError" : 0.36388000000000004
+  }
+},{
+  "dateTime" : "10/06/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 43.16595,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 42.738800000000005,
+    "filteredDemographicVO2MaxError" : 0.3637
+  }
+},{
+  "dateTime" : "10/07/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 43.02460000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 42.773430000000005,
+    "filteredDemographicVO2MaxError" : 0.36356000000000005
+  }
+},{
+  "dateTime" : "10/08/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 42.3736,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 42.72498,
+    "filteredDemographicVO2MaxError" : 0.36345000000000005
+  }
+},{
+  "dateTime" : "10/09/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 41.998740000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 42.637010000000004,
+    "filteredDemographicVO2MaxError" : 0.36337
+  }
+},{
+  "dateTime" : "10/10/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 41.782900000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 42.533570000000005,
+    "filteredDemographicVO2MaxError" : 0.3633
+  }
+},{
+  "dateTime" : "10/11/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 41.658620000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 42.427620000000005,
+    "filteredDemographicVO2MaxError" : 0.36325
+  }
+},{
+  "dateTime" : "10/12/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 41.776920000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 42.34883000000001,
+    "filteredDemographicVO2MaxError" : 0.36321000000000003
+  }
+},{
+  "dateTime" : "10/13/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 41.84505,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 42.28784,
+    "filteredDemographicVO2MaxError" : 0.36318
+  }
+},{
+  "dateTime" : "10/14/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 42.07414000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 42.261970000000005,
+    "filteredDemographicVO2MaxError" : 0.36316000000000004
+  }
+},{
+  "dateTime" : "10/15/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.67989000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 43.644090000000006,
+    "filteredDemographicVO2MaxError" : 0.36314
+  }
+},{
+  "dateTime" : "10/16/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.64652,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 44.854820000000004,
+    "filteredDemographicVO2MaxError" : 0.36313
+  }
+},{
+  "dateTime" : "10/17/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.81718000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 45.93963,
+    "filteredDemographicVO2MaxError" : 0.36312000000000005
+  }
+},{
+  "dateTime" : "10/18/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.915440000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 46.905010000000004,
+    "filteredDemographicVO2MaxError" : 0.36311000000000004
+  }
+},{
+  "dateTime" : "10/19/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.97202000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 47.76037,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "10/20/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.384350000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 48.562090000000005,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "10/21/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.43189,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 49.27253,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "10/22/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.459270000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 49.9003,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "10/23/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.475030000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 50.453990000000005,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "10/24/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.86386,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 50.987730000000006,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "10/25/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.897870000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 51.460980000000006,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "10/26/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.91745,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 51.87933,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "10/27/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.73886,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 52.22543,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "10/28/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.825900000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 52.54017,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "10/29/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.49627,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 52.776920000000004,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "10/30/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.021660000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 52.92757,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "10/31/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.84331,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.0384,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/01/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.74062000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.12339000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/02/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.681490000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.19093,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/03/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.457570000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.223200000000006,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/04/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.5185,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.25894,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/05/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.933330000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.34056,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/06/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.982330000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.41823,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/07/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.200410000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.5129,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/08/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.51585000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.63429000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/09/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.69749,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.76297,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/10/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.6122,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.865750000000006,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/11/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.75296,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.973130000000005,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/12/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.83402,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.07732000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/13/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.69082,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.15157000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/14/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.798230000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.22983000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/15/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.670210000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.28313000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/16/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.596500000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.32105000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/17/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.554050000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.349250000000005,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/18/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.529610000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.371080000000006,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/19/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.51554,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.388560000000005,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/20/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.31756000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.379960000000004,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/21/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.013690000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.33563,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/22/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.458980000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.22952000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/23/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.70919000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.166540000000005,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/24/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.853260000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.128620000000005,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/25/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.936220000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.10533,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/26/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.79412000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.067660000000004,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/27/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.90216,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.04762,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/28/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.964380000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.03754000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/29/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.00020000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.03302000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "11/30/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.020830000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.03154000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/01/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.41245000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.07764,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/02/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.44807,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.12247000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/03/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.658460000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.187340000000006,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/04/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.7796,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.25902000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/05/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.65948,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.30749,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/06/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.590320000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.34172,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/07/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.360620000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.344,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/08/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.22836,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.330000000000005,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/09/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.34208,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.33146000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/10/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.59742000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.36365000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/11/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.36471,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.36377,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/12/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.230720000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.347660000000005,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/13/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.343430000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.34714,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/14/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.40833000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.35454000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/15/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.445710000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.365570000000005,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/16/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.65710000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.400850000000005,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/17/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.96869,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.469570000000004,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/18/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.95823000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.528710000000004,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/19/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 55.14208000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.602940000000004,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/20/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.8682,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.635040000000004,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/21/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.90037,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.66715000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/22/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.91890000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.69762000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/23/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.73969,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.70271,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/24/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.826370000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.717670000000005,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/25/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.686420000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.71388,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/26/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.605830000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.7008,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/27/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.55942,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.68368,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/28/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.722570000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.68838,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/29/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.626650000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.6809,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/30/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.951150000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.71361,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "12/31/20 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.94814,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.74199,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/01/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.946400000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.76673,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/02/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.75553000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.765370000000004,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/03/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.45575,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.72789,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/04/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.28314,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.674060000000004,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/05/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.99387,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.591730000000005,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/06/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.01718,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.52219,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/07/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.41035,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.50865,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/08/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.63674,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.524150000000006,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/09/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.577220000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.530570000000004,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/10/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.542950000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.53206,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/11/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.33335,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.508,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/12/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.832910000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.42629,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/13/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.9245,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.365550000000006,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/14/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.597500000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.27259,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/15/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.409200000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.16809000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/16/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.870400000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.13206,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/17/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.946090000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.109550000000006,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/18/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.36941,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.141000000000005,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/19/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.23342,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.15218,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/20/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.155120000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.152530000000006,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/21/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.2999,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.17036,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/22/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.57314,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.21911000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/23/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.540600000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.25802,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/24/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.711740000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.31293,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/25/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.62041000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.35014,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/26/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.757690000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.399460000000005,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/27/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.64687000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.4294,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/28/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.58305000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.447990000000004,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/29/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.546310000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.45989,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/30/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.335280000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.44480000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "01/31/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.213770000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.416830000000004,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/01/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.333670000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.406760000000006,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/02/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.64323,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.31434,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/03/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.43554,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.20797,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/04/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.695690000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.14596,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/05/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.845490000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.109590000000004,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/06/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.931740000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.088060000000006,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/07/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.17128,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.098130000000005,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/08/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.23326,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.11448000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/09/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.96515,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.0964,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/10/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.00065000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.084810000000004,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/11/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.21096000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.10007,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/12/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.33205,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.12814,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/13/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.21191,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.138270000000006,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/14/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.332600000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.16179,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/15/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.022360000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.14491,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/16/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.22346,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.154410000000006,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/17/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.14938000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.153800000000004,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/18/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.296600000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.17108,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/19/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.81175,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.12758,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/20/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.72245,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 54.078540000000004,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/21/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.29128000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.983250000000005,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/22/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.42275000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.91541,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/23/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.49846,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.864940000000004,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/24/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.73192,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.84884,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/25/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.676480000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.82797000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/26/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.64455,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.80577,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/27/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.4363,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.761050000000004,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "02/28/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.506260000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.73021000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "03/01/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.54654000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.707980000000006,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "03/02/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.56974,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.69124000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "03/03/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.772960000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.701130000000006,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "03/04/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.022890000000004,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.74007,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "03/05/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.03389000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.77563000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "03/06/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 54.04023,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.80765,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "03/07/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.854000000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.81326000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "03/08/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.17716000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.736270000000005,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "03/09/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.167170000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.667390000000005,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "03/10/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 52.97155000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.58317,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "03/11/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.04878000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.51849000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "03/12/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 52.903380000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.44404,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "03/13/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.009530000000005,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.39144,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "03/14/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.07065000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.352610000000006,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "03/15/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.29571000000001,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.34572000000001,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "03/16/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.80505,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.40131,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+},{
+  "dateTime" : "03/17/21 00:00:00",
+  "value" : {
+    "demographicVO2Max" : 53.718590000000006,
+    "demographicVO2MaxError" : 3.0000000000000004,
+    "filteredDemographicVO2Max" : 53.439710000000005,
+    "filteredDemographicVO2MaxError" : 0.36310000000000003
+  }
+}]
